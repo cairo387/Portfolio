@@ -1,4 +1,4 @@
-# 　　　　　　　サービスサイト「みつかいろ」
+# 　　　　　　　整体予約サイト「みつかいろ」
 ![3701363_m](https://user-images.githubusercontent.com/77834661/113402400-e68e2f00-93df-11eb-95f7-e0dd95ca56cf.jpg)
 ##  :sunny:Overview
 あなたに合った整体師さんがみつかるサイト。<br>
